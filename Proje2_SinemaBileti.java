@@ -2,7 +2,7 @@
  * Ad Soyad: [ENES ZUKRA]
  * Ogrenci No: [250541616]
  * Tarih: [24.11.2025] 
- * Aciklama: Gorev 1 - SinemaBileti
+ * Aciklama: Gorev 2 - SinemaBileti
  */
 import java.util.Scanner;
 
@@ -121,3 +121,4 @@ public class SinemaBileti {
         generateTicketInfo(gun, saat, yas, meslek, tur);
     }
 }
+
